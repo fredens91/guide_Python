@@ -85,3 +85,11 @@ dizionario = {"chiave1": 1, "chiave2": 2, "chiave3": 3}
 for chiave, valore in dizionario.items():
     print(chiave, valore)
 ```
+
+While
+```
+contatore = 1
+while contatore <= 5:
+    print(contatore)
+    contatore += 1
+```
