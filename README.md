@@ -13,9 +13,8 @@ Installa Python su Windows.
 ### Variabili e Classi
 
 numeri
-```numInt = 10
 ```
-```
+numInt = 10
 numFloat = 5.4
 ```
 
