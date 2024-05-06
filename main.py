@@ -49,12 +49,6 @@ persona1.saluta()     # Stampa: Ciao, mi chiamo Alice e ho 30 anni.
 def somma(a, b):
     return a + b
 
-
-
-
-
-
-
 ## Operazioni
 
 # IF
