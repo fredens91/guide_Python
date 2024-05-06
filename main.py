@@ -45,6 +45,9 @@ print(persona1.età)   # Stampa: 30
 persona1.saluta()     # Stampa: Ciao, mi chiamo Alice e ho 30 anni.
 
 
+# Funzioni
+def somma(a, b):
+    return a + b
 
 
 
