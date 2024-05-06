@@ -8,7 +8,7 @@ print("Hello World")
 
 ## variabili
 
-numeri
+# numeri
 numInt = 10
 numFloat = 5.4
 
