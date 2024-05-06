@@ -65,3 +65,23 @@ else:
     print("numero maggiore di 15")
 ```
 
+For (non esiste il foreach)
+
+```
+# Iterazione attraverso una lista
+numeri = [1, 2, 3, 4, 5]
+for numero in numeri:
+    print(numero)
+```
+```
+# Iterazione attraverso una stringa
+stringa = "Python"
+for carattere in stringa:
+    print(carattere)
+```
+```
+# Iterazione attraverso un dizionario
+dizionario = {"chiave1": 1, "chiave2": 2, "chiave3": 3}
+for chiave, valore in dizionario.items():
+    print(chiave, valore)
+```
