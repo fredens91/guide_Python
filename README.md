@@ -2,7 +2,6 @@
 
 ## Installazione di Python
 https://www.python.org/downloads/
-Installa Python su Windows.
 
 ### VS Code Plugins
 - Python (estensione ufficiale di Microsoft)
