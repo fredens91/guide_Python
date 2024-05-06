@@ -13,20 +13,30 @@ Installa Python su Windows.
 ### Variabili e Classi
 
 numeri
-`numInt = 10`
-`numFloat = 5.4`
+```numInt = 10
+```
+```
+numFloat = 5.4
+```
 
 stringa
-`nome = "Alice"`
+```
+nome = "Alice"
+```
 
 boolean
-`value = True`
+```
+value = True
+```
 
 lista
-`lista = [1, 2, 3, 4, 5]`
+```
+list = [1, 2, 3, 4, 5]
+```
 
 dizionario
-`dizionario = {"nome": "Bob", "età": 25}`
+```dizionario = {"nome": "Bob", "età": 25}
+```
 
 Classi
 
