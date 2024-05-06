@@ -12,13 +12,17 @@ Installa Python su Windows.
 
 ### Variabili
 int
+
 `numero = 10`
 
 stringa
+
 `nome = "Alice"`
 
 lista
+
 `lista = [1, 2, 3, 4, 5]`
 
 dizionario
+
 `dizionario = {"nome": "Bob", "età": 25}`
