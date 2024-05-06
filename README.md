@@ -34,7 +34,8 @@ list = [1, 2, 3, 4, 5]
 ```
 
 dizionario
-```dizionario = {"nome": "Bob", "età": 25}
+```
+dictionary = {"nome": "Bob", "età": 25}
 ```
 
 Classi
