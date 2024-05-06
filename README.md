@@ -1,5 +1,4 @@
 # guide_Python
-https://www.python.org/
 
 ## Installazione di Python
 https://www.python.org/downloads/
